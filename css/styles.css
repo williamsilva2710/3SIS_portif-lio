@@ -14,13 +14,13 @@ body {
 }
 
 .navbar-brand {
-    color: #4a6bdb;
+    color: #fff;
     font-size: 1.4rem;
     transition: all 0.3s ease;
 }
 
 .navbar-brand:hover {
-    color: #3451b2;
+    color: #dd09d3;
     transform: scale(1.05);
 }
 
